@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Indhrani116/Coding/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -57,4 +59,16 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Indhrani116/Coding/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
