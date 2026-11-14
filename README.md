@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Indhrani116/Coding/tree/master/0704-binary-search) |
 ## Binary Search
@@ -31,6 +32,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
