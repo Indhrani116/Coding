@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/Indhrani116/Coding/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Indhrani116/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -38,14 +40,17 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
