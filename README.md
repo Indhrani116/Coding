@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Indhrani116/Coding/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/Indhrani116/Coding/tree/master/0704-binary-search) |
@@ -55,4 +56,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Indhrani116/Coding/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
