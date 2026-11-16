@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Indhrani116/Coding/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Indhrani116/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Indhrani116/Coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Indhrani116/Coding/tree/master/0152-maximum-product-subarray) |
@@ -20,12 +21,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Indhrani116/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Indhrani116/Coding/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Indhrani116/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Indhrani116/Coding/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Indhrani116/Coding/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Indhrani116/Coding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Indhrani116/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indhrani116/Coding/tree/master/0229-majority-element-ii) |
