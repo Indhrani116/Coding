@@ -66,6 +66,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Indhrani116/Coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Indhrani116/Coding/tree/master/0086-partition-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Indhrani116/Coding/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Indhrani116/Coding/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
